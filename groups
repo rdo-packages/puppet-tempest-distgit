@@ -1,3 +1,5 @@
-# UUID                                  	Group Name
-#
-5186682ba2c6b8cb60212a90444beaab41d6a006	puppet-tempest-distgit-ptl
+# UUID          Group Name
+6ddfecad023c6f4fa3ac8c4d2583c502ea675a73 	Non-Interactive Users
+051817bf78f363eef9fe9413c2561296fe648cea       	puppet-tempest-distgit-core
+5186682ba2c6b8cb60212a90444beaab41d6a006        	puppet-tempest-distgit-ptl
+global:Registered-Users		Registered Users
