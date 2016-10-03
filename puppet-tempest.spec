@@ -55,3 +55,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/tempest/
 - Update to 9.2.0
 
 
+# REMOVEME: error caused by commit http://git.openstack.org/cgit/openstack/puppet-tempest/commit/?id=61c4d9a177bb3b5d2d9b09e4c3bd3cb5d28a9af1
