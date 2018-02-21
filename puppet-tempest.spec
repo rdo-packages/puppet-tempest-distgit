@@ -1,7 +1,7 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 Name:           puppet-tempest
-Version:        XXX
-Release:        XXX
+Version:        12.3.0
+Release:        1%{?dist}
 Summary:        Puppet module for OpenStack Tempest
 License:        ASL 2.0
 
@@ -45,5 +45,8 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/tempest/
 
 
 %changelog
+* Wed Feb 21 2018 RDO <dev@lists.rdoproject.org> 12.3.0-1
+- Update to 12.3.0
+
 
 
