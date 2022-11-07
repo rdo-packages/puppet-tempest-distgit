@@ -1,8 +1,8 @@
 %{!?sources_gpg: %{!?dlrn:%global sources_gpg 1} }
-%global sources_gpg_sign 0xa63ea142678138d1bb15f2e303bdfd64dd164087
+%global sources_gpg_sign 0xa7475c5f2122fec3f90343223fe3bf5aad1080e4
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 Name:           puppet-tempest
-Version:        18.5.0
+Version:        18.5.1
 Release:        1%{?dist}
 Summary:        Puppet module for OpenStack Tempest
 License:        ASL 2.0
@@ -62,6 +62,9 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/tempest/
 
 
 %changelog
+* Mon Nov 07 2022 RDO <dev@lists.rdoproject.org> 18.5.1-1
+- Update to 18.5.1
+
 * Mon Apr 11 2022 RDO <dev@lists.rdoproject.org> 18.5.0-1
 - Update to 18.5.0
 
