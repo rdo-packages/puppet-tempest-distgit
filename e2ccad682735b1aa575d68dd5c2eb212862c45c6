@@ -1,0 +1,8 @@
+Workflow+1: Joel Capitao <jcapitao@redhat.com>
+Verified+2: Zuul CI <zuul@review.rdoproject.org>
+Code-Review+2: Joel Capitao <jcapitao@redhat.com>
+Submitted-by: Zuul CI <zuul@review.rdoproject.org>
+Submitted-at: Fri, 01 Nov 2024 15:02:24 +0000
+Reviewed-on: https://review.rdoproject.org/r/c/puppet/puppet-tempest-distgit/+/55252
+Project: puppet/puppet-tempest-distgit
+Branch: refs/heads/dalmatian-rdo
