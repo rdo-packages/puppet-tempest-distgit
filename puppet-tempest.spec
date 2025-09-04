@@ -64,3 +64,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/tempest/
 %changelog
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-tempest/commit/a27089b2c9088b35d312b466352081c7d12529c4
